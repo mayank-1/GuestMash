@@ -1,0 +1,21 @@
+{
+  "name": "full-stack-app",
+  "version": "1.0.0",
+  "description": "A full stack web app using Node.js, Express.js, Bootstrap, Multer, Express-Handlebars",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mayank Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "multer": "^1.4.2",
+    "reload": "^3.0.3"
+  },
+  "engines": {
+    "npm": "6.11.3",
+    "node": "10.14.2"
+  }
+}
