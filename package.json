@@ -9,7 +9,7 @@
   "author": "Mayank Kumar",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-handlebars": "^3.1.0",
     "multer": "^1.4.2",
     "reload": "^3.0.3"
